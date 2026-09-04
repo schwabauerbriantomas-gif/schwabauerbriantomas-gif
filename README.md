@@ -11,6 +11,7 @@ ML engineer working on **masked diffusion language models**, **vector search**, 
 
 | Project | What it is |
 |---|---|
+| [orchestrator-cube-container](https://github.com/schwabauerbriantomas-gif/orchestrator-cube-container) | MCP server with 178 tools for container, hypervisor and bare-metal orchestration — AI replaces the DevOps role |
 | [splatdb](https://github.com/schwabauerbriantomas-gif/splatdb) | Vector search with uncertainty awareness — knowledge graph + HNSW + GPU in a single Rust binary |
 | [latent-space-language-diffusion-model](https://github.com/schwabauerbriantomas-gif/latent-space-language-diffusion-model) | Masked diffusion LM (201M params), 1.8–3.9× faster forward pass than autoregressive |
 | [m2m-energy-fields](https://github.com/schwabauerbriantomas-gif/m2m-energy-fields) | Steer diffusion LLMs toward a topic without mentioning it in the prompt |
